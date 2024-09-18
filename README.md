@@ -9,4 +9,4 @@ I'm a student at the University of Waterloo pursuing a degree in Computer Scienc
  - UI Design
  - and also Graphic Design!
 
-I love building things, so while you're here, you should also checkout my projects. There's lots of love and care into each one! ✌️
+I love building things, so while you're here, you should also checkout my projects!
